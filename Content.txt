@@ -1,0 +1,18 @@
+New Super Mario Bros. U
+
+New Super Mario Bros. U[a] is a 2D side-scrolling platform video game developed and published in 2012 by Nintendo as a launch game for the Wii U. It is the fourth entry in the New Super Mario Bros. series. It is a sequel to New Super Mario Bros. Wii (2009) and a follow-up to New Super Mario Bros. 2 (2012). As part of the "Year of Luigi" campaign, a downloadable expansion to the game, New Super Luigi U, was released in June 2013. A standalone retail version was released the following month and later copies of the base game included the expansion on disc. This is the first Mario game to be released in high-definition graphics.
+
+The game received generally positive reviews and is one of the best-selling games on the Wii U. An enhanced port for the Nintendo Switch, titled New Super Mario Bros. U Deluxe, developed by the successor to Nintendo Entertainment Analysis and Development, Nintendo Entertainment Planning and Development, was released on January 11, 2019. As of December 2021, the Switch version had sold 12.72 million units worldwide. Between both versions, a total of 18.53 million units have been sold worldwide. 
+
+
+
+
+The look of website: Simple, colorful
+
+#0098CA
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"> 
